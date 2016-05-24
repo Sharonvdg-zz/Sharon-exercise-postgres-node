@@ -3,7 +3,9 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "dependencies": {},
+  "dependencies": {
+    "pg": "^4.5.5"
+  },
   "devDependencies": {
     "nodemon": "^1.9.2"
   },
